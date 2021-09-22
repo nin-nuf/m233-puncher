@@ -1,4 +1,5 @@
-ch/zli/m223/punchclock/domain/Entry.class
-ch/zli/m223/punchclock/controller/EntryController.class
-ch/zli/m223/punchclock/service/EntryService.class
-ch/zli/m223/punchclock/service/AuthenticationService.class
+ch\zli\m223\punchclock\service\EntryService.class
+ch\zli\m223\punchclock\service\AuthenticationService.class
+ch\zli\m223\punchclock\domain\Category.class
+ch\zli\m223\punchclock\controller\EntryController.class
+ch\zli\m223\punchclock\domain\Entry.class
